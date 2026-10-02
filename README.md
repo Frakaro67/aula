@@ -1,17 +1,1 @@
 # aula
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Arthur Fracaro</title>
-    <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRNhnPKMHKH0_f6YAamSKnIsCHjpPJS1ptGmI6B7LPQ&s=10">
-</head>
-<body>
-    <h1>Quem sou eu?</h1>
-    <p>Meu nome é Arthur Fracaro, tenho 16 anos, sou estudante e produtor musical por hobby.</p>
-    <p>Nasci em Florianópolis e hoje moro em Biguaçu</p>
-    <h2>Uma citação:</h2>
-    <p>"Ninguém é perfeito em um mundo imperfeito" - Patrice Lumumba</p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkMGd4W2zBBRajfE_TX1C7wOcL8VEkosJ5SryZg0dNYqJb-gg2nzHs24&s=10">
-</body>
-</html>
